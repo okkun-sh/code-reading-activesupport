@@ -1,5 +1,5 @@
 current directory: /Users/okkun/Develop/MyApp/Work/code-reading-activesupport/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
-/Users/okkun/.rbenv/versions/2.6.0/bin/ruby -I /Users/okkun/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20190125-20798-17o9ewc.rb extconf.rb
+/Users/okkun/.rbenv/versions/2.6.0/bin/ruby -I /Users/okkun/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20190125-22632-13zk04x.rb extconf.rb
 creating Makefile
 
 current directory: /Users/okkun/Develop/MyApp/Work/code-reading-activesupport/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.bundle
 
 current directory: /Users/okkun/Develop/MyApp/Work/code-reading-activesupport/vendor/bundle/ruby/2.6.0/gems/byebug-10.0.2/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190125-20798-u48zwi/byebug
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190125-22632-yy5oby/byebug
